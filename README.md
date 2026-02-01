@@ -1,16 +1,14 @@
 # Employee Management System – Core Java
 
-A console-based Employee Management System developed using Core Java.  
-This project is designed for freshers to understand Object-Oriented Programming concepts and basic CRUD operations.
+A simple console-based Employee Management System developed using **Core Java**.  
+This project demonstrates the use of **Object-Oriented Programming (OOP)** concepts and Java Collections.
 
 ---
 
 ## 📌 Features
-- Add Employee
-- View All Employees
+- Add Employee details
+- View all Employees
 - Search Employee by ID
-- Update Employee Salary
-- Delete Employee
 - Menu-driven console application
 
 ---
@@ -29,13 +27,8 @@ This project is designed for freshers to understand Object-Oriented Programming 
 - Encapsulation
 - Java Collections (ArrayList)
 - Loops and Conditional Statements
+- Packages in Java
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone or download the project
-2. Open terminal in the project folder
-3. Compile the code:
-   ```bash
-   javac Employee.java EmployeeApp.java
+## 📁 Package Structure
