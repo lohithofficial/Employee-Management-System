@@ -30,5 +30,3 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 - Packages in Java
 
 ---
-
-## 📁 Package Structure
